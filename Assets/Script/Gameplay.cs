@@ -32,4 +32,4 @@ public class Gameplay : MonoBehaviour
     {
         hpBar.fillAmount = (float)player.hp / 100;
     }
-}
+} //ujyhuyuy
